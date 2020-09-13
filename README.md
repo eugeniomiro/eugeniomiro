@@ -2,7 +2,7 @@
 
 - 🌱 I’m continuously learning ... Windows, Linux, OpenSUSE, Kali, Debian, OpenWRT, Networking, Programming, Electronics, Arduino
 
-- 🎥 [Favorite Videos](https://github.com/eugeniomiro/videos.md)
+- 🎥 [Favorite Videos](https://github.com/eugeniomiro/eugeniomiro/blob/master/videos.md)
 
 <!--
 **eugeniomiro/eugeniomiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
