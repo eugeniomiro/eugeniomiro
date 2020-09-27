@@ -6,7 +6,7 @@
 * You can’t write more of a unit test than is sufficient to fail, and not compiling is failing.
 * You can’t write more production code than is sufficient to pass the currently failing unit test.
 
-### TDD Rules
+### TDD Rules [Extracted from this video](https://youtu.be/58jGpV2Cg50)
 
 * You write the test that force you to write the code you already know you want to write...
 * Can't refactor until you have a passing test
