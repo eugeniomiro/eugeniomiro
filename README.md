@@ -3,21 +3,8 @@
 - 🌱 I’m continuously learning ... Windows, Linux, OpenSUSE, Kali, Debian, OpenWRT, Networking, Programming, Electronics, Arduino, [TDD](https://github.com/eugeniomiro/eugeniomiro/blob/master/tdd.md)
 
 ### My Favorites
+
 - 🎥 [Videos](https://github.com/eugeniomiro/eugeniomiro/blob/master/videos.md)
-- 🧪 [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
-
-<!--
-**eugeniomiro/eugeniomiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧪 [Testing](https://github.com/eugeniomiro/eugeniomiro/blob/master/testing.md)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniomiro)

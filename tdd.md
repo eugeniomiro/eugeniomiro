@@ -13,3 +13,7 @@
 * You engage as few brain cells as possible because you're going to need them later
 * **You are not allowed to make the production code more specific than the tests**, Every test you add make the tests more constrained, more specific. Everything you do to the production code makes the production code more general. That drives you to not write production code just to pass a test.
 * **Don't go for the gold**. When you're using TDD you must postpone going for the main functionality you're working on until the last moment, so you need to work in everything else around it until you don't have nothing else to do but the main functionality.
+
+### Links
+
+- [The three laws of TDD](https://www.youtube.com/watch?v=AoIfc5NwRks) (video)
