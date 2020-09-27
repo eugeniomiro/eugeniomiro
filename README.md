@@ -4,7 +4,7 @@
 
 ### My Favorites
 - 🎥 [Videos](https://github.com/eugeniomiro/eugeniomiro/blob/master/videos.md)
-
+- 🧪 [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
 
 <!--
 **eugeniomiro/eugeniomiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
