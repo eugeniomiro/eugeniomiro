@@ -3,6 +3,7 @@
 ## Robert Martin (Uncle Bob)
 
 * [The three laws of TDD](https://www.youtube.com/watch?v=AoIfc5NwRks)
+* [Goto 2017 - The scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI)
 
 ### Clean Code
 
