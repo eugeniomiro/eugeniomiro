@@ -17,3 +17,4 @@
 ### Links
 
 - [The three laws of TDD](https://www.youtube.com/watch?v=AoIfc5NwRks) (video)
+- [DevTernity 2017: Ian Cooper - TDD, Where Did It All Go Wrong](https://www.youtube.com/watch?v=EZ05e7EMOLM)
