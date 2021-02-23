@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m continuously learning ... Windows, Linux, OpenSUSE, Kali, Debian, OpenWRT, Networking, Programming, Electronics, Arduino, [TDD](https://github.com/eugeniomiro/eugeniomiro/blob/master/tdd.md)
+- 🌱 I’m continuously learning ... Windows, Linux, OpenSUSE, Kali, Debian, Fedora, OpenWRT, Networking, Programming, Electronics, Arduino, [TDD](https://github.com/eugeniomiro/eugeniomiro/blob/master/tdd.md)
 
 ### My Favorites
 
