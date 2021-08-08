@@ -5,6 +5,7 @@
 * [The three laws of TDD](https://www.youtube.com/watch?v=AoIfc5NwRks)
 * [Goto 2017 - The scribe's Oath](https://www.youtube.com/watch?v=Tng6Fox8EfI)
 * [ITkonekt 2019 | Robert C. Martin (Uncle Bob), Clean Architecture and Design](https://youtu.be/2dKZ-dWaCiU)
+* [157 - Clean Architecture with Robert Martin (a.k.a Uncle Bob](https://youtu.be/ekBWizEpyvo) from [this twitter post](https://twitter.com/otaviolemos/status/1424484045958914049)
 
 ### Clean Code
 
