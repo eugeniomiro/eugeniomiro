@@ -4,6 +4,7 @@
 
 - [TDD](https://github.com/eugeniomiro/eugeniomiro/blob/master/tdd.md)
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html)
+- [The Unit Tests Strike Back: Testing the Hard Parts - Dave Steffen - CppCon 2021](https://www.youtube.com/watch?v=N2YJ4D7O7Oc)
 
 ## Spanish
 
