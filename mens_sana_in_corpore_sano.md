@@ -1,6 +1,6 @@
 # Mens Sana in corpore sano
 
-My wife watch these videos to train daily, trying to keep a healthy body and mind.
+My wife and I watch these videos to train daily, trying to keep a healthy body and mind.
 
 
 * [Heather Robertson Youtube channel](https://www.youtube.com/c/Heatherrobertsoncom)
