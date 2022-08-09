@@ -15,6 +15,7 @@
 - 💻 [Programming](https://github.com/eugeniomiro/eugeniomiro/blob/master/programming.md)
 - 📚 [Learn Extreme Programming](https://www.tutorialspoint.com/extreme_programming/index.htm)
 - 🚮 [Clean Code for .NET Coding Craftsman](https://medium.com/hackernoon/clean-code-for-net-coding-craftsman-7674373fccaf)
+- 🧘 [Mens sana in corpore sano](https://github.com/eugeniomiro/eugeniomiro/blob/master/mens_sana_in_corpore_sano.md)
 </td></tr></table>
     </td><td>
   
